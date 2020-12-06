@@ -1,0 +1,17 @@
+127.0.0.1 - - [06/Dec/2020:16:21:22 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:21:37 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 404 806
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:22:40 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 404 806
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:22:41 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 404 806
+127.0.0.1 - - [06/Dec/2020:16:23:18 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:23:28 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 404 806
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:23:29 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 404 806
+127.0.0.1 - - [06/Dec/2020:16:24:23 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:24:32 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 200 54
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:24:51 -0500] "PUT /rest/contact/management/create HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:16:24:54 -0500] "PUT /rest/contact/management/create HTTP/1.1" 200 -
+127.0.0.1 - - [06/Dec/2020:18:33:54 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:18:33:58 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 200 54
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:18:34:02 -0500] "PUT /rest/contact/management/create HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:18:34:05 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 200 70
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:18:34:21 -0500] "POST /rest/contact/management/update HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Dec/2020:18:34:24 -0500] "GET /rest/contact/management/get/Ming/Yu HTTP/1.1" 200 71
